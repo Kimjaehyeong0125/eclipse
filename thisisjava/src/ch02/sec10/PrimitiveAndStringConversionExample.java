@@ -15,8 +15,8 @@ public class PrimitiveAndStringConversionExample {
 		String str2 = String.valueOf(3.14);
 		String str3 = String.valueOf(true);
 
-		System.out.println("str1: + str1");
-		System.out.println("str2: + str2");
-		System.out.println("str3: + str3");
+		System.out.println("str1: "+ str1);
+		System.out.println("str2: "+ str2);
+		System.out.println("str3: "+ str3);
 	}
 }

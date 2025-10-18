@@ -20,7 +20,7 @@ public class CompareOperatorExample {
 		int num3 = 1;
 		double num4 = 1.0;
 		boolean result5 = (num3 == num4);
-		System.out.println("print5: "+ result5);
+		System.out.println("result5: "+ result5);
 		
 		float num5 = 0.1f;
 		double num6 = 0.1;
