@@ -39,7 +39,7 @@ public class MultidimensionalArrayByNewExample {
 		englishScores[1] = new int[3];
 		//배열 항목 초기값 출력
 		for (int i = 0; i< englishScores.length;i++) {
-			for (int k = 0; k < englishScores.length; k++) {
+			for (int k = 0; k < englishScores[i].length; k++) {
 			System.out.println("englishScores["+i+"]["+ k +"]: " + englishScores[i][k]);
 			}
 		}
