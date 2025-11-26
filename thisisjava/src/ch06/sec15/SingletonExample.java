@@ -11,7 +11,7 @@ public class SingletonExample {
 		if(obj1==obj2) {
 			System.out.println("같은 Singleton 객체 입니다.");
 		}else {
-			Sysyem.out.println("다른 Singleton 객체입니다.");
+			System.out.println("다른 Singleton 객체입니다.");
 		}
 
 	}
